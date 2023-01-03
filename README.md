@@ -3,7 +3,7 @@
 <br>
 <h3>Esse projeto eu executei estudando no DevClub.</h3>
 <br>
-<h3>Saiba mais em:<br><br><a href="https://plataforma.devclub.com.br/"><img src="https://github.com/danvitmac/Easy-Shopping/blob/master/assets/logo-DevClub.jpeg?raw=true" alt="logo-devclub"></a></h3>
+<h3>Saiba mais em:<br><br><a href="https://plataforma.devclub.com.br/"><img src="https://github.com/danvitmac/Easy-Shopping/blob/master/assets/logo-DevClub.jpeg?raw=true" alt="logo-devclub" width="75px"></a></h3>
 <br>
 <h3>Tecnologias empregadas:</h3>
 <br>
